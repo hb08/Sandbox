@@ -1,0 +1,37 @@
+Front End Developer / UI Developer
+Skill Assessment
+
+
+Brief:
+Please use the provided PSD design composition for reference and to export imagery needed and develop a 1 page responsive landing page using the bootstrap framework. The composition provided is for desktop, you will have to use your judgement as to how the page structurally changes and adjusts as the viewport is resized to tablet, and mobile. Please be mindful of best practices and cross platform / browser compatibility.
+
+Detail:
+
+Request Info button should scroll you down to the form area of the page.
+
+The form does not need to send a message but when a user clicks submit the form and only the form should be replaced with a thank you message. (see layer group in PSD) 
+
+For bonus points you have the opportunity to use CSS3 and/or Javascript animation to enhance the event when a user submits the form and it transitions to the thank you message. 
+
+Frameworks to Use:
+
+Bootstrap
+LESS
+jQuery 
+
+Languages to Use:
+
+HTML5
+CSS3/LESS
+JavaScript
+
+Fonts Needed:
+
+Open Sans (google font)
+https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic
+
+Deliverables:
+
+Completed landing page viewable in browser.
+
+Please upload your project folder to Github inclusive of src files and final compiled files for review.
